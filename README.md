@@ -2,9 +2,9 @@
 
 [![Bootstrap Freebies](/readme-images/github-bootstrap-freebies.png)](https://github.com/topics/bootstrap-freebies/) 
 
-**Boxed features snippet** made with Bootstrap 4. It includes a responsive grid design where you can showcase all of your project's best qualities and features. Each box has a large logo from [Font Awesome](https://fontawesome.com/), title, description, and links. [See a live demo here &raquo;](https://epicbootstrap.com/snippets/features-boxed)
+**Boxed features snippet** made with Bootstrap 4. It includes a responsive grid design where you can showcase all of your project's best qualities and features. Each box has a large logo from [Font Awesome](https://fontawesome.com/), title, description, and links. [Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io)
 
-[![Boxed Features](/readme-images/screenshot.png)](https://epicbootstrap.com/snippets/features-boxed) 
+[![Boxed Features](/readme-images/screenshot.png)](https://bootstrapstudio.io) 
 
 ## Features
 
